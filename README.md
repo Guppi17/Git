@@ -25,10 +25,10 @@ git push
 
 ##### Creating, adding remote repositories  
 ```git
-git init sql                                              # Create separate repository for portfolio item 
-git remote add sql https://github.com/Guppi17/sql.git     # Declarie repository remotely 
-README.md edited manually                                 # Add links to your repositories to the README.md file
-git commit -m "Update"                                    # Push changes to remote repository
+git init SQL-Queries                                              # Create separate repository for portfolio item 
+git remote add sql https://github.com/Guppi17/SQL-Queries.git     # Declarie repository remotely 
+README.md edited manually                                         # Add links to your repositories to the README.md file
+git commit -m "Update"                                            # Push changes to remote repository
 git push                                                     
 ```
 
